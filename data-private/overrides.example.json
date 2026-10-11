@@ -1,0 +1,1 @@
+{"note": "OPTIONAL local overrides. Copy to overrides.json (gitignored) to override public data on YOUR machine only. Never commit real private data.", "example": {"profile": {"subline": "My own line here"}}}
